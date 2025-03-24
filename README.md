@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dattatray Panchal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+- 🌱 I’m currently learning **MongoDb, Express**
 
-- 🔭 I’m currently working on **Wealth Graph**
-
-- 🌱 I’m currently learning **Angular ,MongoDb, Express**
-
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **ReactJs,Angular**
 
 - 📫 How to reach me **dattapanchal464@gmail.com**
 
