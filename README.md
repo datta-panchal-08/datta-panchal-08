@@ -1,14 +1,57 @@
 <h1 align="center">Hi 👋, I'm Dattatray Panchal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-- 🌱 I’m currently learning **MongoDb, Express**
+<h3 align="center">🚀 Passionate Frontend & MERN Stack Developer from India 🇮🇳</h3>
 
-- 💬 Ask me about **ReactJs,Angular**
+---
 
-- 📫 How to reach me **dattapanchal464@gmail.com**
+### 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently building awesome full-stack projects using **React**, **Node.js**, and **MongoDB**
+- 🌱 I’m currently learning advanced **Express.js** and **MongoDB Aggregation**
+- 👨‍💻 All of my projects are available at: [github.com/datta-panchal-08](https://github.com/datta-panchal-08)
+- 📫 How to reach me: **dattapanchal464@gmail.com**
+- ⚡ Fun fact: I believe in **"Code. Build. Repeat."**
+
+---
+
+### 🚀 Tech Stack
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,html,css,js,ts,tailwind,angular,bootstrap,git,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 💼 My Top Projects
+
+| Project | Tech Stack | Links |
+|--------|------------|-------|
+| **📝 MERN Blog App** | React, Redux Toolkit, Tailwind, Node.js, MongoDB | [GitHub](https://github.com/datta-panchal-08/MERN_Blog_App) |
+| **📺 Vidzy – YouTube Clone** | React, Tailwind, YouTube API, Redux Toolkit | [Live Demo](https://vidzy-seven.vercel.app) |
+| **🎬 SCSDB – Smart Cinema Search** | React, TMDB API, Redux Toolkit, Tailwind | [Live Demo](https://scsdb-entertainment.vercel.app) |
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dattatray-panchal-19a439217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="linkedin" /></a>
+  <a href="mailto:dattapanchal464@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datta-panchal-08&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datta-panchal-08&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+### 🧠 Currently Learning
+`MERN Stack`, `React Best Practices`, `MongoDB Performance`, `Express Security`, `TypeScript`, `Tailwind CSS`, `Open Source Contribution`
+
+---
+
+*Thanks for visiting! Feel free to connect 🙌*
